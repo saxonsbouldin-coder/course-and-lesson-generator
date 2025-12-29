@@ -1,0 +1,7 @@
+{
+  "name": "CourseCraft AI",
+  "description": "An AI-powered course builder that converts text or documents into structured HTML courses with printable worksheets, SOPs, checklists, and auto-generated graphics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
